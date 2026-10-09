@@ -1,0 +1,12 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1778271061
+DESIGN_DOCUMENT.txt::TextFile::-1::1778271013::0::1::::<><><>0<>0<><>::
+::res://assets/::1778271015
+::res://scenes/::1778271015
+Game.tscn::PackedScene::-1::1778271013::0::1::::<><><>0<>0<><>::res://scripts/game.gd<>res://scripts/player.gd
+MainMenu.tscn::PackedScene::-1::1778271013::0::1::::<><><>0<>0<><>::res://scripts/menu.gd
+::res://scripts/::1778271015
+game.gd::GDScript::8113390208704922141::1778271013::0::1::::<>Node2D<><>0<>0<><>::
+menu.gd::GDScript::3953063311384118685::1778271013::0::1::::<>Control<><>0<>0<><>::
+obstacle.gd::GDScript::1870529130632646657::1778271013::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript::8923354019861827853::1778271013::0::1::::<>CharacterBody2D<><>0<>0<><>::

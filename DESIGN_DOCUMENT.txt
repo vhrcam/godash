@@ -1,0 +1,23 @@
+
+GO DASH - FINAL PROJECT DESIGN DOCUMENT
+
+Genre:
+Arcade Platformer
+
+Description:
+Go Dash is a Geometry Dash inspired game where the player jumps over obstacles
+and survives as long as possible.
+
+Features:
+- Main Menu
+- Physics-based movement
+- UI Score Counter
+- 30+ seconds gameplay
+- Outside assets and audio can be added in /assets
+
+Requirements Completed:
+- Main menu
+- Physics movement
+- Gameplay loop
+- UI element
+- Single level
